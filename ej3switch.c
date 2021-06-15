@@ -1,0 +1,4 @@
+/*
+	implementar el ejercicio extra de la estructura if con un switch para imprimir los mensajes al final
+	dependiendo de las estrellas 
+*/

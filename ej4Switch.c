@@ -16,6 +16,9 @@
 	Conjuro a completar:
 		- "Win-GAR-di-um %s-i-O-sa"
 
+	Conjuro correcto:
+		- "Win-GAR-di-um lev-i-O-sa"
+
 	ej:
 		si el usuario ingresa la opcion 3 el conjuro deberia quedar como "Win-GAR-di-um di-i-O-sa" 
 
